@@ -1,0 +1,19 @@
+#include<stdio.h>
+    int main()
+    {
+        int a,b,c,d,e;
+        printf("enter the first trip gem");
+        scanf("%d",$a);
+        printf("enter the second trip gem");
+        scanf("%d",&b);
+        printf("enter the third trip gem");
+        scanf("%d",&c);
+        printf("enter the fourth trip gem");
+        scanf("%d",$d);
+        printf("enter the fifth trip gem");
+        scanf("%d,&e");
+        printf("the total trip gem  is %d",a+b+c+d+e)
+        return 0;
+        
+
+    }
